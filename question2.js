@@ -1,3 +1,6 @@
+
+//write a for loop to log the sum of all element
+
 let arr=[1,2,3,4,5]
 
 
